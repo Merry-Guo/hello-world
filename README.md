@@ -1,3 +1,2 @@
-# hello-world
-the first repository
-Hi! I am your new friend. Just call me Merry.
+# Datasets used in DSNE
+Cora, CCiteseer, Pubmed , Wiki and Coauthor Physics.
